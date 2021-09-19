@@ -1,0 +1,25 @@
+.speech{
+    font-family:  serif;
+    font-size: medium;
+    color: aqua;
+    
+}
+
+.stage-direction {
+    font-family:  Helvetica;
+    font-size: medium;
+    color: aqua;
+background-color: lightgray;
+}
+
+.stage-direction.hover{
+
+
+}
+
+.name{
+    font-family: 'Times New Roman';
+    font-size: x-large;
+    color: aqua;
+
+}
