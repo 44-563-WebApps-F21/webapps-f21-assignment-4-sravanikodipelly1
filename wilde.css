@@ -9,10 +9,10 @@
     font-family:  Helvetica;
     font-size: medium;
     color: aqua;
-background-color: lightgray;
+background-color: lemonchiffon;
 }
 
-.stage-direction.hover{
+.stage-direction:hover{
 background-color: lightblue;
 
 }
@@ -22,6 +22,14 @@ background-color: lightblue;
     font-size: x-large;
     color: aqua;
 
+}
+.name:hover{
+    background-color: darkcyan;
+    text-shadow: lightpink;
+    box-shadow : magenta;
+    filter:blur(1px);
+
+    
 }
 .ALICE{
      
@@ -52,4 +60,5 @@ background-color: lightblue;
     padding-bottom: 30px;
     margin: 2px;
 }
+
 
