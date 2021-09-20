@@ -1,7 +1,7 @@
 .speech{
     font-family:  serif;
     font-size: medium;
-    color: darkorange;
+    color: black;
     
 }
 
@@ -39,5 +39,17 @@ background-color: lightblue;
 .MRSALLONBY{
     color: deeppink;
 
+}
+.table{
+    border: 5px blueviolet;
+    border: navy;
+    color: maroon;
+    text-align: left;
+    border-collapse: collapse;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 2px;
 }
 
