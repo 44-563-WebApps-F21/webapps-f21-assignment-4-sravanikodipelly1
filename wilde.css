@@ -48,17 +48,45 @@ background-color: lightblue;
     color: deeppink;
 
 }
-.table{
-    border: 5px blueviolet;
+table{
+    border: 2px blueviolet;
     border: navy;
     color: maroon;
     text-align: left;
     border-collapse: collapse;
-    padding-right: 20px;
-    padding-left: 20px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     margin: 2px;
 }
+table th{
+    background-color: moccasin;
 
+}
+table tr:nth-child(even){
+    background-color: yellow;
+}
+ul.navbar-horizontal
+{
+   list-style-type: none;
+   margin:0;
+   padding:0; 
+}
+ul.navbar-horizontal li
+{
+   float:left;
+   background:lavenderblush; 
+}
+ul.navbar-horizontal a
+{
+   display:block;
+   padding:20px;
+   color:navy;
+}
+ul.navbar-horizontal a:hover
+{
+   background-color:lightcoral;
+   color:cadetblue;
+}
 
